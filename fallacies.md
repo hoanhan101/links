@@ -6,14 +6,14 @@
 
 ## 8 fallacies
 
-1. The network is reliable.
-2. Latency is zero.
-3. Bandwidth is infinite.
-4. The network is secure.
-5. Topology doesn't change.
-6. There is one administrator.
-7. Transport cost is zero.
-8. The network is homogeneous. 
+1. [The network is reliable](#the-network-is-reliable)
+2. [Latency is zero](#latency-is-zero)
+3. [Bandwidth is infinite](#bandwidth-is-infinite)
+4. [The network is secure](#network-is-secure)
+5. [Topology doesn't change](#topology-doesnt-change)
+6. [There is one administrator](there-is-one-administrator)
+7. [Transport cost is zero](#transport-cost-is-zero)
+8. [The network is homogeneous](#the-network-is-homogeneous)
 
 ## The network is reliable
 
