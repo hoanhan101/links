@@ -15,9 +15,7 @@
 7. Transport cost is zero.
 8. The network is homogeneous. 
 
-### The network is reliable
-
-### Overview
+## The network is reliable
 
 There are plenty of problems:
 - Power failures
@@ -26,70 +24,70 @@ There are plenty of problems:
 - External partners their side of connection is not under your direct control
 - Security threads like DDOS
 
-Solution:
+**Solution:**
 - Hardware: think about redundancy and weigh the risk of failure
 - Software: think about messages/calls getting lost
 
-### Latency is zero
+## Latency is zero
 
 Latency is how much time it takes for data to move from one place to another.
 
 Latency can be relatively good on a LAN--but latency deteriorates quickly 
 when you move to WAN scenarios or internet scenarios.
 
-Solution:
+**Solution:**
 - Make as few as possible calls
 
-### Bandwidth is infinite
+## Bandwidth is infinite
 
 Bandwidth which is how much data we can transfer during that time.
 
 Bandwidth can grow really fast with big data.
 
-Solution:
+**Solution:**
 - Consider the volume of expected data
 
-### Network is secure
+## Network is secure
 
 It is far from being secure.
 
-Solution:
+**Solution:**
 - Build security into your solutions from day 1
 - Evaluate security risks
 
-### Topology doesn't change
+## Topology doesn't change
 
 It is usually out of control because it is changing constantly.
 
-Solution:
+**Solution:**
 - Try not to depend on specific endpoints or routes
 - Either provide location transparency or service discovery
 - Abstract the physical structure of the network (e.g: DNS)
 
-### There is one administrator
+## There is one administrator
 
 In reality, the IT group usually has different administrators, assigned according
 to expertise - databases, web servers, networks, Linux, Windows, so on.
 There are also external entities.
 
-Solution:
+**Solution:**
 - Remember that administrators can constrain your options (administrators that sets 
 disk quotas, limited privileges, limited ports and protocols and so on), and 
 that you need to help them manage your applications.
 
-### Transport cost is zero
+## Transport cost is zero
 
 These things can cost:
 - Marshalling/serializing data
 - Setting and running networks
 
-Solution:
+**Solution:**
 - Find cost-effective strategy
 
-### The network is homogeneous
+## The network is homogeneous
 
 Most architects today are not naïve enough to assume this fallacy.
 
-Solution:
+**Solution:**
 - Do not rely on proprietary protocols
 - Use standard technologies that are widely accepted
