@@ -21,5 +21,8 @@ distributed systems world.
 
 ## Others
 
-- [Notes on Distributed Systems for Young Bloods](https://www.somethingsimilar.com/2013/01/14/
-notes-on-distributed-systems-for-young-bloods/#fail)
+- [Notes on Distributed Systems for Young
+  Bloods](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
+- [Code to Read When Learning
+  Go](https://www.somethingsimilar.com/2013/12/26/code-to-read-when-learning-go/)
+- [LoL's Game Data Server](https://engineering.riotgames.com/news/game-data-server)
