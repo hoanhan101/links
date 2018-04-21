@@ -22,8 +22,8 @@ This is a place where I keep my engineering notes so I can refer back to them la
 ## Other interesting reads
 
 [Go training](https://github.com/ardanlabs/gotraining)
-A of of insights on Go language itself as well as design philosophy, correctness, performance and
-difference trade offs.
+> A of of insights on Go language itself as well as design philosophy, correctness, performance and
+> difference trade offs. They also have good reading resources to reinforce the materials.
 
 [Code to Read When Learning
 Go](https://www.somethingsimilar.com/2013/12/26/code-to-read-when-learning-go/)
