@@ -21,6 +21,12 @@ This is a place where I keep my engineering notes so I can refer back to them la
 
 ## Other interesting reads
 
+[Build web app with Go](https://astaxie.gitbooks.io/build-web-application-with-golang/en/)
+> Open source Gitbook: not just web related resources but also different developement setup
+
+[Go TCP/IP Networking](https://appliedgo.net/networking/)
+> Good read with awesome visualization, heavily commented code
+
 [Go training](https://github.com/ardanlabs/gotraining)
 > A of of insights on Go language itself as well as design philosophy, correctness, performance and
 > difference trade offs. They also have good reading resources to reinforce the materials.
