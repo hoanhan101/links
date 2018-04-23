@@ -42,3 +42,8 @@ Bloods](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems
 
 [Build an 8-bit computer from scratch](https://eater.net/8bit/)
 > Awesome tutorials with instructional videos explaining computer system and architecture
+
+AI related
+- [Hashing in the Era of Machine Learning](https://blog.bradfieldcs.com/an-introduction-to-hashing-in-the-era-of-machine-learning-6039394549b0): hash tables, "learned index", b-tree, pointers to research papers
+- [Artificial Intelligence — The Revolution Hasn’t Happened Yet](https://medium.com/@mijordan3/artificial-intelligence-the-revolution-hasnt-happened-yet-5e1d5812e1e7): public vs practitioner view of "AI
+- [A Berkeley View of Systems Challenges for AI](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2017/EECS-2017-159.pdf): how are computer systems may evolve to support ML over the coming decade
