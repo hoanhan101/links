@@ -21,8 +21,11 @@ This is a place where I keep my engineering notes and interesting reading.
 
 ## Other interesting reads
 
+**General**
+- [Jon Gjengset's blog](https://thesquareplanet.com/blog/): Mostly about Rust
+
 **Golang**
-- [Build web app with Go](https://astaxie.gitbooks.io/build-web-application-with-golang/en/): Open source Gitbook: not just web related resources with simple explaination but also different developement setup
+- [Build web app with Go](https://astaxie.gitbooks.io/build-web-application-with-golang/en/): Not just web related resources with simple explaination but also different developement setup
 - [Go TCP/IP Networking](https://appliedgo.net/networking/): Good read with awesome visualization, heavily commented code
 - [Go training](https://github.com/ardanlabs/gotraining): A of of insights on Go language itself as well as design philosophy, correctness, performance and difference trade offs. They also have good reading resources to reinforce the materials.
 - [Code to Read When Learning Go](https://www.somethingsimilar.com/2013/12/26/code-to-read-when-learning-go/)
