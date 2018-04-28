@@ -1,7 +1,9 @@
 # journal
+
 This is a place where I keep my engineering notes and interesting reading.
 
 ## Table of Contents
+
 - [Bit and bytes](bits.md)
 - [Fallacies of Distributed Computing](fallacies.md)
 - DNS
@@ -18,6 +20,7 @@ This is a place where I keep my engineering notes and interesting reading.
 - Tracing Infrastructure
 
 ## Other interesting reads
+
 **General**
 - [Jon Gjengset's blog](https://thesquareplanet.com/blog/): Mostly about Rust
 
