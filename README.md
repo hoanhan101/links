@@ -60,3 +60,7 @@ This is a place where I keep my engineering notes and interesting reading.
 - [A Berkeley View of Systems Challenges for AI
   ](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2017/EECS-2017-159.pdf): 
   How are computer systems may evolve to support ML over the coming decade
+
+**Other**
+- [The Vietnam of Computer
+  Science](http://blogs.tedneward.com/post/the-vietnam-of-computer-science/): TODO
