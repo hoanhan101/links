@@ -1,25 +1,13 @@
 # journal
 
-This is a place where I keep my engineering notes and interesting reading.
+This is a place where I keep my engineering notes and interesting articles and videos.
 
-## Table of Contents
+## Notes
 
 - [Bit and bytes](bits.md)
 - [Fallacies of Distributed Computing](fallacies.md)
-- DNS
-- Microservices & Containerization
-- Time and Synchronization
-- Consistency
-- Paxos
-- Raft
-- NFS
-- GFS
-- IPFS
-- Tor
-- Chord
-- Tracing Infrastructure
 
-## Other interesting reads
+## Interesting links
 
 **History**
 - [Computer History Museum Oral History
