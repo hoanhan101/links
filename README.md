@@ -24,6 +24,11 @@ This is a place where I keep my engineering notes and interesting reading.
 **General**
 - [Jon Gjengset's blog](https://thesquareplanet.com/blog/): Mostly about Rust
 
+**Docker**
+- [Romin's Docker Tutorial Series](https://rominirani.com/docker-tutorial-series-a7e6ff90a023):
+  Easy-to-understand tutorial. Topics: Docker hub, private registry, volume, Dockerfile, Docker
+  Swarm, Google Compute Engine, Kubernetes
+
 **Golang**
 - [Povilas Versockas's blog](https://povilasv.me/articles-i-recommend/): Go, Kubernetes' insight with a many
   awesome articles recommendations.
