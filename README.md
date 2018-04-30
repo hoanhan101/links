@@ -108,6 +108,10 @@ This is a place where I keep my engineering notes and interesting articles and v
 - [Hacker's Delight](https://www.amazon.com/Hackers-Delight-2nd-Henry-Warren/dp/0321842685/)
 - [Masters of Doom: How Two Guys Created an Empire and Transformed Pop
   Culture](https://www.amazon.com/Masters-Doom-Created-Transformed-Culture/dp/0812972155)
+- [Ghost in the Wires: My Adventures as the World's Most Wanted
+  Hacker](https://www.amazon.com/Ghost-Wires-Adventures-Worlds-Wanted-ebook/dp/B0047Y0F0K/r)
+- [On Intelligence: How a New Understanding of the Brain Will Lead to the Creation of Truly
+  Intelligent Machines](https://www.amazon.com/Intelligence-Jeff-Hawkins-ebook/dp/B003J4VE5Y/ref)
 - [Category Theory for
   Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
 - [Linux Kernel
@@ -117,6 +121,16 @@ This is a place where I keep my engineering notes and interesting articles and v
 - [Computer
   Architecture](https://www.amazon.com/Computer-Architecture-Quantitative-John-Hennessy/dp/012383872X)
 - [Readings in Database Systems](http://www.redbook.io/index.html)
+- [Computer Systems: A Programmer's
+  Perspective](https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X/)
+- [C Programming
+  Language](https://www.amazon.com/Programming-Language-Brian-W-Kernighan/dp/0131103628)
+- [Programming Interviews Exposed: Secrets to Landing Your Next
+  Job](https://www.amazon.com/Programming-Interviews-Exposed-Secrets-Landing/dp/B008SGNJOW)
+- [C++ Coding Standards: 101 Rules, Guidelines, and Best
+  Practices](https://www.amazon.com/Coding-Standards-Rules-Guidelines-Practices/dp/B004ISL6I0/)
+- [Design Patterns: Elements of Reusable Object-Oriented
+  Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/B000SEIBB8/)
 
 **Math**
 - [Video series](https://www.pinterest.com/mathematicsprof/)
