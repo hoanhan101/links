@@ -48,7 +48,8 @@ This is a place where I keep my engineering notes and interesting articles and v
 - [Build an 8-bit computer from scratch](https://eater.net/8bit/): Awesome tutorials with instructional 
   videos explaining computer system and architecture
 - [Building an Operating System for the Raspberry Pi](https://jsandler18.github.io)
-- [Per Vognsen's systems programming source](https://github.com/pervognsen/bitwise)
+- [Per Vognsen's systems programming source](https://github.com/pervognsen/bitwise): Code and Live
+  Coding sessions.
 - [K'NEX](http://www.danielehrman.com/knex-computer/ops1oli2kv6yrztv7vfirpmqhq7yzp)
 - [Fuchsia OS](https://fuchsia.googlesource.com/docs/+/master/the-book/)
 - [grep your way to freedom](https://anniecherkaev.com/grep-your-way-to-freedom): 
@@ -94,6 +95,8 @@ This is a place where I keep my engineering notes and interesting articles and v
   How are computer systems may evolve to support ML over the coming decade
 
 **Security**
+- [LiveOverflow Binary
+  Hacking](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
 - [How secure is 256 bit security?](https://youtu.be/S9JGmA5_unY)
 - [The Secret Life Of Your Login
   Credentials](https://blog.bradfieldcs.com/the-secret-life-of-your-login-credentials-6a254bad52ce)
