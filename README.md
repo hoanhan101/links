@@ -68,6 +68,7 @@ This is a place where I keep my engineering notes and interesting articles and v
   Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
 - [A Client-Centric Specification of Database
   Isolation](https://www.cs.utexas.edu/~ncrooks/2017-podc-seeing-tr.pdf)
+- [Russ Cox's awesome projects and papers](https://swtch.com/~rsc/)
 
 **Database**
 - [The last decade of database research](https://dawn.cs.stanford.edu/2018/04/11/db-community/)
