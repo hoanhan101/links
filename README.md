@@ -18,6 +18,8 @@ This is a place where I keep my engineering notes and interesting articles and v
 - [Romin's Docker Tutorial Series](https://rominirani.com/docker-tutorial-series-a7e6ff90a023):
   Easy-to-understand tutorial. Topics: Docker hub, private registry, volume, Dockerfile, Docker
   Swarm, Google Compute Engine, Kubernetes
+- [Containers versus Operating
+  Systems](https://dave.cheney.net/2018/01/16/containers-versus-operating-systems)
 
 **Go**
 - [Povilas Versockas's blog](https://povilasv.me/articles-i-recommend/): Go, Kubernetes' insight with a many
