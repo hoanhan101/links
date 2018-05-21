@@ -36,6 +36,7 @@ This is a place where I keep my engineering notes and interesting articles and v
 - [Code to Read When Learning Go](https://www.somethingsimilar.com/2013/12/26/code-to-read-when-learning-go/)
 
 **Other language**
+- [Safe ways to do things in bash](https://news.ycombinator.com/item?id=17057596)
 - [Jon Gjengset's blog](https://thesquareplanet.com/blog/): Mostly about Rust
 - [The Rise of "Worse is Better"](https://www.jwz.org/doc/worse-is-better.html)
 - [Red and Green
