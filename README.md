@@ -22,6 +22,8 @@ This is a place where I keep my engineering notes and interesting articles and v
   Systems](https://dave.cheney.net/2018/01/16/containers-versus-operating-systems)
 
 **Go**
+- [Analysis of the Go runtime
+  scheduler](http://www.cs.columbia.edu/~aho/cs6998/reports/12-12-11_DeshpandeSponslerWeiss_GO.pdf)
 - [Povilas Versockas's blog](https://povilasv.me/articles-i-recommend/): Go, Kubernetes' insight with a many
   awesome articles recommendations.
 - [Build web app with Go](https://astaxie.gitbooks.io/build-web-application-with-golang/en/): 
