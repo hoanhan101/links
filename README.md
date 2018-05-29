@@ -35,6 +35,10 @@ This is a place where I keep my engineering notes and interesting articles and v
   They also have good reading resources to reinforce the materials.
 - [Code to Read When Learning Go](https://www.somethingsimilar.com/2013/12/26/code-to-read-when-learning-go/)
 
+**Bash**
+- [Command-line Tools can be 235x Faster than your Hadoop
+  Cluster](https://adamdrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html)
+
 **Other language**
 - [Safe ways to do things in bash](https://news.ycombinator.com/item?id=17057596)
 - [Jon Gjengset's blog](https://thesquareplanet.com/blog/): Mostly about Rust
