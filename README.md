@@ -150,6 +150,7 @@ This is a place where I keep my engineering notes and interesting articles and v
 - [Video series](https://www.pinterest.com/mathematicsprof/)
 
 **Physics**
+- [Simon Clark's recommended physics books](https://youtu.be/p9s2fBYA4fU)
 - [The Mechanical Universe](https://youtu.be/XtMmeAjQTXc): 1985/86 PBS television adaptation of 
   the introductory physics courses at Cornell
 
