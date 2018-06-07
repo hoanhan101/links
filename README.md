@@ -10,6 +10,11 @@ This is a place where I keep my engineering notes and interesting articles and v
 
 ## Quotes
 
+> A little learning is a dangerous thing; Drink deep, or taste not the Pierian
+> spring.
+
+> Alexander Pope
+
 > "Everyone can be taught to sculpt: Michelangelo would have had to be taught
 > how not to. So it is with the great programmers". Perlis is saying that the
 > greats have some internal quality that transcends their training. But where
