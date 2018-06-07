@@ -12,7 +12,7 @@ This is a place where I keep my engineering notes and interesting articles and v
 
 > A little learning is a dangerous thing; Drink deep, or taste not the Pierian
 > spring.
-
+>
 > Alexander Pope
 
 > "Everyone can be taught to sculpt: Michelangelo would have had to be taught
