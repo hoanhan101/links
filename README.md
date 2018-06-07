@@ -2,6 +2,42 @@
 
 This is a place where I keep my engineering notes and interesting articles and videos.
 
+## Table of Contents
+
+- [Quotes](#quotes)
+- [Notes](#notes)
+- [Interesting links](#interesting-links)
+
+## Quotes
+
+> "Everyone can be taught to sculpt: Michelangelo would have had to be taught
+> how not to. So it is with the great programmers". Perlis is saying that the
+> greats have some internal quality that transcends their training. But where
+> does the quality come from? Is it innate? Or do they develop it through
+> diligence? As Auguste Gusteau (the fictional chef in Ratatouille) puts it,
+> "anyone can cook, but only the fearless can be great." I think of it more as
+> willingness to devote a large portion of one's life to deliberative practice.
+> But maybe fearless is a way to summarize that. Or, as Gusteau's critic, Anton
+> Ego, says: "Not everyone can become a great artist, but a great artist can
+> come from anywhere."
+>
+> [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
+
+> Just because you know a statement and proof of Fundamental Lemma X, you
+> shouldn’t take that lemma for granted; instead, you should dig deeper until
+> you really understand what the lemma is all about.
+>
+> [Learn and relearn your
+> field](https://terrytao.wordpress.com/career-advice/learn-and-relearn-your-field/)
+
+> One needs to do a serious amount of reading and writing, and not just
+> thinking, in order to get anywhere serious in mathematics; contrary to public
+> opinion, mathematical breakthroughs are not powered solely (or even
+> primarily) by “Eureka” moments of genius, but are in fact largely a product
+> of hard work, directed of course by experience and intuition.
+>
+> [Work hard](https://terrytao.wordpress.com/career-advice/work-hard/)
+
 ## Notes
 
 - [Bit and bytes](bits.md)
@@ -155,6 +191,8 @@ This is a place where I keep my engineering notes and interesting articles and v
   the introductory physics courses at Cornell
 
 **Other**
+- [Dijkstra's The Humble
+  Programmer](https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD340.html)
 - [Better Science through Art](http://dreamsongs.com/Files/BetterScienceThroughArt.pdf)
 - [The Vietnam of Computer
   Science](http://blogs.tedneward.com/post/the-vietnam-of-computer-science/)
