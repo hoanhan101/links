@@ -10,7 +10,7 @@ This is a place where I keep my engineering notes and interesting articles and v
 
 ## Quotes
 
-> A little learning is a dangerous thing; Drink deep, or taste not the Pierian
+> A little learning is a dangerous thing; **Drink deep**, or taste not the Pierian
 > spring.
 >
 > Alexander Pope
@@ -20,7 +20,7 @@ This is a place where I keep my engineering notes and interesting articles and v
 > greats have some internal quality that transcends their training. But where
 > does the quality come from? Is it innate? Or do they develop it through
 > diligence? As Auguste Gusteau (the fictional chef in Ratatouille) puts it,
-> "anyone can cook, but only the fearless can be great." I think of it more as
+> **"anyone can cook, but only the fearless can be great."** I think of it more as
 > willingness to devote a large portion of one's life to deliberative practice.
 > But maybe fearless is a way to summarize that. Or, as Gusteau's critic, Anton
 > Ego, says: "Not everyone can become a great artist, but a great artist can
@@ -29,8 +29,8 @@ This is a place where I keep my engineering notes and interesting articles and v
 > [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
 
 > Just because you know a statement and proof of Fundamental Lemma X, you
-> shouldn’t take that lemma for granted; instead, you should dig deeper until
-> you really understand what the lemma is all about.
+> shouldn’t take that lemma for granted; instead, you should **dig deeper until
+> you really understand what the lemma is all about.**
 >
 > [Learn and relearn your
 > field](https://terrytao.wordpress.com/career-advice/learn-and-relearn-your-field/)
@@ -38,10 +38,37 @@ This is a place where I keep my engineering notes and interesting articles and v
 > One needs to do a serious amount of reading and writing, and not just
 > thinking, in order to get anywhere serious in mathematics; contrary to public
 > opinion, mathematical breakthroughs are not powered solely (or even
-> primarily) by “Eureka” moments of genius, but are in fact largely a product
-> of hard work, directed of course by experience and intuition.
+> primarily) by “Eureka” moments of genius, but are in fact **largely a product
+> of hard work, directed of course by experience and intuition.**
 >
 > [Work hard](https://terrytao.wordpress.com/career-advice/work-hard/)
+
+> If you concentrate solely on your career, you can get a long way in your
+> career. That’s a strategy that a minority of men preferably do. They work
+> 70-80 hours a week. They go flat our on their careers. They’re staking
+> everything on small probabilities of exceptional status in a narrow domain.
+> It’s hard on them. They don’t have a life. It’s very difficult for them to
+> have a family. They don’t know how to take any leisure activities. They get
+> very one dimension. It means that the **uni-dimensional is the price you have
+> to pay to be exceptional at one thing.** Because if you’re gonna at a level of
+> a genius mathematician, you’re in a lab all the time, you work 80 hours a
+> week. You’re smart. You’re dedicated. That’s how you get to beat every other
+> people who doing that. That’s the only way. It’s a risky business. You
+> scarify a lot for it. 
+>
+> Most people wound’t do it. They wouldn’t put in 80 hours per week that I have
+> to put in order to dominate that particular area. The reason they decide not
+> to do it is because they think it’s not worth it. No wonder. Because **why
+> would that be worth it?** You have to ask yourself that. Why do you want to be
+> an outstanding scientist? Ok. Really, that’s what you want. Because that’s
+> what you do. You’re competing with other people. They’re smart. They’re
+> hardworking. If you want to be at the top, you have to be smarter and work
+> harder than any of them. If I am smart and hardworking and I crank out for 80
+> hours a week and you do it for 30. In 2 years, I’m so ahead of you. You will
+> never ever catch up.
+>
+> [Jordan Peterson - Do You Want To Have A Life? Or Be Exceptional At One
+> Thing?](https://youtu.be/cSFSlZwneO4)
 
 ## Notes
 
