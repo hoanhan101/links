@@ -7,7 +7,7 @@ math, physics, history and business.
 ## Table of Contents
 
 - [Quotes](#quotes)
-- [Links](#links)
+- [Links](#links-1)
 
 ## Quotes
 
