@@ -1,12 +1,13 @@
-# journal
+# links
 
-This is a place where I keep my engineering notes and interesting articles and videos.
+This is a place where I keep links to interesting articles, essays, and videos that I
+found on the internet. Topics include, but not limited to, software engineering, 
+math, physics, history and business.
 
 ## Table of Contents
 
 - [Quotes](#quotes)
-- [Notes](#notes)
-- [Interesting links](#interesting-links)
+- [Links](#links)
 
 ## Quotes
 
@@ -70,12 +71,11 @@ This is a place where I keep my engineering notes and interesting articles and v
 > [Jordan Peterson - Do You Want To Have A Life? Or Be Exceptional At One
 > Thing?](https://youtu.be/cSFSlZwneO4)
 
-## Notes
+## Links 
 
-- [Bit and bytes](bits.md)
-- [Fallacies of Distributed Computing](fallacies.md)
-
-## Interesting links
+**Business**
+- [Indie Hackers](https://www.indiehackers.com/)
+- [Product Hunt](https://www.producthunt.com/)
 
 **History**
 - [Computer History Museum Oral History
@@ -175,6 +175,7 @@ This is a place where I keep my engineering notes and interesting articles and v
   How are computer systems may evolve to support ML over the coming decade
 
 **Security**
+- [Joel on Software](https://www.joelonsoftware.com/)
 - [LiveOverflow Binary
   Hacking](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
 - [How secure is 256 bit security?](https://youtu.be/S9JGmA5_unY)
