@@ -94,6 +94,7 @@ math, physics, history and business.
   Programming](https://beej.us/guide/bgnet/html/single/bgnet.html)
 
 **Go**
+- [Peter Bourgon's blog](http://peter.bourgon.org/blog/): A mix of Go and microservices architecture blogs.
 - [GopherAcademy](https://www.gopheracademy.com/)
 - [rakyll's blog on Go](https://rakyll.org/)
 - [Analysis of the Go runtime
